@@ -1,0 +1,8 @@
+/node_modules
+/.direnv
+/.astro
+/public
+*.node
+
+napi-astro-rs/index.*
+napi-astro-rs/target
